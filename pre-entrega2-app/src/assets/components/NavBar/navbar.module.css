@@ -1,0 +1,47 @@
+.linkNav:focus {
+  text-decoration: none;
+  color: #dda302;
+  margin: 0%;
+  color: #ffbd01;
+  transform: scale(1.1);
+  margin-left: 15px;
+}
+.linkNav {
+  text-decoration: none;
+  color: #ffffff;
+  margin: 0%;
+  align-items:center;
+  margin-left: 15px;
+}
+.linkNav:hover {
+  transform: scale(1.1);
+  color: #dda302;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.father {
+  padding: 0 0 0 0;
+}
+.header {
+  display: flex;
+  background-color: #000000;
+  align-items: center;
+}
+.logo {
+  height: 90px;
+  width: 300px;
+  margin: 10px;
+}
+.button {
+  border: 0;
+}
+.list {
+  justify-content: flex-end;
+  align-items: center;
+}
+.alignCenter{
+  align-items: center;
+}

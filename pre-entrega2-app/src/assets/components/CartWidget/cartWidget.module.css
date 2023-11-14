@@ -1,0 +1,21 @@
+.car{
+    width: 30px;
+    margin: 5px;
+}
+.countCar{
+    background-color: white;
+    border-radius: 45%;
+    position: relative;
+    left: -18px;
+    top: -4px;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.linkNavShow {
+    text-decoration: none;
+    color: #dda302;
+    margin: 0%;
+    color: #ffbd01;
+    transform: scale(1.1);}
